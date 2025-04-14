@@ -1,0 +1,1 @@
+worker: python streamlit_uptime_pinger.py
