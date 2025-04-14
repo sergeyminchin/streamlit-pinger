@@ -4,9 +4,14 @@ from datetime import datetime
 
 # === CONFIGURATION ===
 URLS = [
-    "https://polytex-toolkit.streamlit.app/?keepalive=true",
-    "https://polytex-alerts.streamlit.app/?keepalive=true",
-    "https://polytex-repeatedcalls.streamlit.app/?keepalive=true"
+    "https://polytex-toolkit.streamlit.app/",
+    "https://service-calls-spare-parts-polytex.streamlit.app/",
+    "https://repeated-service-calls-polytex.streamlit.app/",
+    "https://fixes-per-unit-polytex.streamlit.app/",
+    "https://duplicates-rfid-polytex.streamlit.app/",
+    "https://alerts-filter-polytex.streamlit.app/",
+    "https://dashboard-service-polytex-q1-24-25.streamlit.app/",
+    "https://dashboard-polytex-service.streamlit.app/"
 ]
 
 INTERVAL_MINUTES = 5
