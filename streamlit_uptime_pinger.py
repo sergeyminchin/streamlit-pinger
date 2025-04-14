@@ -4,7 +4,7 @@ from datetime import datetime
 
 # === CONFIGURATION ===
 URLS = [
-    "https://polytex-toolkit.streamlit.app/",
+    "https://polytex-service-toolkit.streamlit.app/",
     "https://service-calls-spare-parts-polytex.streamlit.app/",
     "https://repeated-service-calls-polytex.streamlit.app/",
     "https://fixes-per-unit-polytex.streamlit.app/",
